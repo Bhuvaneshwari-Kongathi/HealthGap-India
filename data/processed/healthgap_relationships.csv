@@ -1,0 +1,3 @@
+business_question,observations,correlation,strength,analytical_note
+Maternal Care → Institutional Births,706,0.599,Strong,Strong association; does not establish causation.
+Maternal Care → Child Stunting,706,-0.36,Moderate,Descriptive association; does not establish causation.

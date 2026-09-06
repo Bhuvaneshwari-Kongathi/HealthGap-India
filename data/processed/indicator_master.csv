@@ -1,0 +1,108 @@
+indicator,total_rows,valid_values,low_sample_values,suppressed_values,missing_values,valid_percentage,quality_category,category,selection,selection_reason,direction
+number_of_households_surveyed,706,706,0,0,0,100.0,High,Socioeconomic & Living Conditions,Supporting,Supporting/contextual indicator,Context
+number_of_women_age_15_49_years_interviewed,706,706,0,0,0,100.0,High,Population & Survey Profile,Supporting,Supporting/contextual indicator,Context
+number_of_men_age_15_54_years_interviewed,706,706,0,0,0,100.0,High,Population & Survey Profile,Supporting,Supporting/contextual indicator,Context
+female_population_age_6_years_and_above_who_ever_attended_school_pct,706,706,0,0,0,100.0,High,Education,Supporting,Supporting/contextual indicator,Context
+population_below_age_15_years_pct,706,706,0,0,0,100.0,High,Population & Survey Profile,Supporting,Supporting/contextual indicator,Context
+sex_ratio_of_the_total_population_females_per_1_000_males,706,706,0,0,0,100.0,High,Population & Survey Profile,Supporting,Supporting/contextual indicator,Context
+sex_ratio_at_birth_for_children_born_in_the_last_five_years_females_per_1_000_males,706,706,2,-2,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Context
+children_under_age_5_years_whose_birth_was_registered_with_the_civil_authority_pct,706,706,0,0,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+deaths_in_the_last_3_years_registered_with_the_civil_authority_pct,706,705,27,-26,1,99.85835694050992,High,Mortality & Registration,Supporting,Supporting/contextual indicator,Context
+population_living_in_households_with_electricity_pct,706,706,0,0,0,100.0,High,Socioeconomic & Living Conditions,Supporting,Supporting/contextual indicator,Context
+population_living_in_households_with_an_improved_drinking_water_source1_pct,706,706,0,0,0,100.0,High,Socioeconomic & Living Conditions,Supporting,Supporting/contextual indicator,Context
+population_living_in_households_that_use_an_improved_sanitation_facility2_pct,706,706,0,0,0,100.0,High,Socioeconomic & Living Conditions,Supporting,Supporting/contextual indicator,Context
+households_using_clean_fuel_for_cooking3_pct,706,706,0,0,0,100.0,High,Socioeconomic & Living Conditions,Supporting,Supporting/contextual indicator,Context
+households_using_iodized_salt_pct,706,706,0,0,0,100.0,High,Socioeconomic & Living Conditions,Supporting,Supporting/contextual indicator,Context
+households_with_any_usual_member_covered_under_a_health_insurance_financing_scheme_pct,706,706,0,0,0,100.0,High,Socioeconomic & Living Conditions,Supporting,Supporting/contextual indicator,Context
+children_age_5_years_who_attended_pre_primary_school_during_the_school_year_2019_20_pct,706,703,155,-152,3,99.57507082152975,High,Education,Supporting,Supporting/contextual indicator,Context
+women_age_15_49_who_are_literate4_pct,706,706,0,0,0,100.0,High,Education,Supporting,Supporting/contextual indicator,Context
+women_age_15_49_with_10_or_more_years_of_schooling_pct,706,706,0,0,0,100.0,High,Education,Supporting,Supporting/contextual indicator,Context
+women_age_20_24_years_married_before_age_18_years_pct,706,706,1,-1,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Negative
+births_in_the_5_years_preceding_the_survey_that_are_third_or_higher_order_pct,706,705,0,1,1,99.85835694050992,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Context
+women_age_15_19_years_who_were_already_mothers_or_pregnant_at_the_time_of_the_survey_pct,706,706,1,-1,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Negative
+women_age_15_24_years_who_use_hygienic_methods_of_protection_during_their_menstrual_period5_pct,706,706,0,0,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+current_use_of_family_planning_methods_currently_married_women_age_15_49_years_any_method6_pct,706,706,0,0,0,100.0,High,Family Planning & Reproductive Health,Supporting,Supporting/contextual indicator,Context
+current_use_of_family_planning_methods_currently_married_women_age_15_49_years_any_modern_method6_pct,706,706,0,0,0,100.0,High,Family Planning & Reproductive Health,Supporting,Supporting/contextual indicator,Context
+current_use_of_family_planning_methods_currently_married_women_age_15_49_years_female_sterilization_pct,706,706,0,0,0,100.0,High,Family Planning & Reproductive Health,Supporting,Supporting/contextual indicator,Context
+current_use_of_family_planning_methods_currently_married_women_age_15_49_years_male_sterilization_pct,706,706,0,0,0,100.0,High,Family Planning & Reproductive Health,Supporting,Supporting/contextual indicator,Context
+current_use_of_family_planning_methods_currently_married_women_age_15_49_years_iud_ppiud_pct,706,706,0,0,0,100.0,High,Family Planning & Reproductive Health,Supporting,Supporting/contextual indicator,Context
+current_use_of_family_planning_methods_currently_married_women_age_15_49_years_pill_pct,706,706,0,0,0,100.0,High,Family Planning & Reproductive Health,Supporting,Supporting/contextual indicator,Context
+current_use_of_family_planning_methods_currently_married_women_age_15_49_years_condom_pct,706,706,0,0,0,100.0,High,Family Planning & Reproductive Health,Supporting,Supporting/contextual indicator,Context
+current_use_of_family_planning_methods_currently_married_women_age_15_49_years_injectables_pct,706,706,0,0,0,100.0,High,Family Planning & Reproductive Health,Supporting,Supporting/contextual indicator,Context
+total_unmet_need_for_family_planning_currently_married_women_age_15_49_years_7_pct,706,706,0,0,0,100.0,High,Family Planning & Reproductive Health,Supporting,Supporting/contextual indicator,Negative
+unmet_need_for_spacing_currently_married_women_age_15_49_years_7_pct,706,706,0,0,0,100.0,High,Family Planning & Reproductive Health,Supporting,Supporting/contextual indicator,Negative
+health_worker_ever_talked_to_female_non_users_about_family_planning_pct,706,706,0,0,0,100.0,High,Family Planning & Reproductive Health,Supporting,Supporting/contextual indicator,Context
+current_users_ever_told_about_side_effects_of_current_method_of_family_planning8_pct,706,704,66,-64,2,99.71671388101983,High,Family Planning & Reproductive Health,Supporting,Supporting/contextual indicator,Context
+mothers_who_had_an_antenatal_check_up_in_the_first_trimester_for_last_birth_in_the_5_years_before_the_survey_pct,706,706,1,-1,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+mothers_who_had_at_least_4_antenatal_care_visits_for_last_birth_in_the_5_years_before_the_survey_pct,706,706,1,-1,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+mothers_whose_last_birth_was_protected_against_neonatal_tetanus_for_last_birth_in_the_5_years_before_the_survey_9_pct,706,706,1,-1,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+mothers_who_consumed_iron_folic_acid_for_100_days_or_more_when_they_were_pregnant_for_last_birth_in_the_5_years_before_the_survey_pct,706,706,1,-1,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+mothers_who_consumed_iron_folic_acid_for_180_days_or_more_when_they_were_pregnant_for_last_birth_in_the_5_years_before_the_survey_pct,706,706,1,-1,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+registered_pregnancies_for_which_the_mother_received_a_mother_and_child_protection_mcp_card_for_last_birth_in_the_5_years_before_the_survey_pct,706,706,1,-1,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+mothers_who_received_postnatal_care_from_a_doctor_nurse_lhv_anm_midwife_other_health_personnel_within_2_days_of_delivery_for_last_birth_in_the_5_years_before_the_survey_pct,706,706,1,-1,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+average_out_of_pocket_expenditure_per_delivery_in_a_public_health_facility_for_last_birth_in_the_5_years_before_the_survey_rs,706,705,14,-13,1,99.85835694050992,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Context
+children_born_at_home_who_were_taken_to_a_health_facility_for_a_check_up_within_24_hours_of_birth_for_last_birth_in_the_5_years_before_the_survey_pct,706,284,141,281,422,40.226628895184135,Low,Maternal & Newborn Health,Exclude,Low data coverage,Context
+children_who_received_postnatal_care_from_a_doctor_nurse_lhv_anm_midwife_other_health_personnel_within_2_days_of_delivery_for_last_birth_in_the_5_years_before_the_survey_pct,706,706,1,-1,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+institutional_births_in_the_5_years_before_the_survey_pct,706,706,0,0,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+institutional_births_in_public_facility_in_the_5_years_before_the_survey_pct,706,706,0,0,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+home_births_that_were_conducted_by_skilled_health_personnel_in_the_5_years_before_the_survey_10_pct,706,706,0,0,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+births_attended_by_skilled_health_personnel_in_the_5_years_before_the_survey_10_pct,706,706,0,0,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+births_delivered_by_caesarean_section_in_the_5_years_before_the_survey_pct,706,706,0,0,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Context
+births_in_a_private_health_facility_that_were_delivered_by_caesarean_section_in_the_5_years_before_the_survey_pct,706,556,122,28,150,78.75354107648725,Moderate,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Context
+births_in_a_public_health_facility_that_were_delivered_by_caesarean_section_in_the_5_years_before_the_survey_pct,706,706,6,-6,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Context
+children_age_12_23_months_fully_vaccinated_based_on_information_from_either_vaccination_card_or_mother_s_recall11_pct,706,693,232,-219,13,98.15864022662889,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+children_age_12_23_months_fully_vaccinated_based_on_information_from_vaccination_card_only12_pct,706,684,323,-301,22,96.88385269121812,High,Child Immunization,Core,Primary healthcare gap indicator,Positive
+children_age_12_23_months_who_have_received_bcg_pct,706,693,232,-219,13,98.15864022662889,High,Child Immunization,Core,Primary healthcare gap indicator,Positive
+children_age_12_23_months_who_have_received_3_doses_of_polio_vaccine13_pct,706,693,232,-219,13,98.15864022662889,High,Child Immunization,Core,Primary healthcare gap indicator,Positive
+children_age_12_23_months_who_have_received_3_doses_of_penta_or_dpt_vaccine_pct,706,693,232,-219,13,98.15864022662889,High,Child Immunization,Core,Primary healthcare gap indicator,Positive
+children_age_12_23_months_who_have_received_the_first_dose_of_measles_containing_vaccine_mcv_pct,706,693,232,-219,13,98.15864022662889,High,Child Immunization,Core,Primary healthcare gap indicator,Positive
+children_age_24_35_months_who_have_received_a_second_dose_of_measles_containing_vaccine_mcv_pct,706,693,232,-219,13,98.15864022662889,High,Child Immunization,Core,Primary healthcare gap indicator,Positive
+children_age_12_23_months_who_have_received_3_doses_of_rotavirus_vaccine14_pct,706,693,232,-219,13,98.15864022662889,High,Child Immunization,Core,Primary healthcare gap indicator,Positive
+children_age_12_23_months_who_have_received_3_doses_of_penta_or_hepatitis_b_vaccine_pct,706,693,232,-219,13,98.15864022662889,High,Child Immunization,Core,Primary healthcare gap indicator,Positive
+children_age_9_35_months_who_received_a_vitamin_a_dose_in_the_last_6_months_pct,706,705,5,-4,1,99.85835694050992,High,Child Nutrition,Core,Primary healthcare gap indicator,Positive
+children_age_12_23_months_who_received_most_of_their_vaccinations_in_a_public_health_facility_pct,706,690,252,-236,16,97.73371104815864,High,Child Immunization,Core,Primary healthcare gap indicator,Context
+children_age_12_23_months_who_received_most_of_their_vaccinations_in_a_private_health_facility_pct,706,690,252,-236,16,97.73371104815864,High,Child Immunization,Core,Primary healthcare gap indicator,Context
+prevalence_of_diarrhoea_in_the_2_weeks_preceding_the_survey_children_under_age_5_years_pct,706,706,0,0,0,100.0,High,Child Illness & Healthcare Access,Core,Primary healthcare gap indicator,Negative
+children_with_diarrhoea_in_the_2_weeks_preceding_the_survey_who_received_oral_rehydration_salts_ors_children_under_age_5_years_pct,706,214,162,330,492,30.31161473087819,Low,Child Illness & Healthcare Access,Exclude,Low data coverage,Negative
+children_with_diarrhoea_in_the_2_weeks_preceding_the_survey_who_received_zinc_children_under_age_5_years_pct,706,214,162,330,492,30.31161473087819,Low,Child Illness & Healthcare Access,Exclude,Low data coverage,Negative
+children_swith_diarrhoea_in_the_2_weeks_preceding_the_survey_taken_to_a_health_facility_or_health_provider_children_under_age_5_years_pct,706,214,162,330,492,30.31161473087819,Low,Child Illness & Healthcare Access,Exclude,Low data coverage,Negative
+children_prevalence_of_symptoms_of_acute_respiratory_infection_ari_in_the_2_weeks_preceding_the_survey_children_under_age_5_years_pct,706,706,0,0,0,100.0,High,Child Illness & Healthcare Access,Core,Primary healthcare gap indicator,Negative
+children_with_fever_or_symptoms_of_ari_in_the_2_weeks_preceding_the_survey_taken_to_a_health_facility_or_health_provider_children_under_age_5_years_pct,706,482,264,-40,224,68.27195467422096,Low,Child Illness & Healthcare Access,Exclude,Low data coverage,Context
+children_under_age_3_years_breastfed_within_one_hour_of_birth15_pct,706,706,1,-1,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Positive
+children_under_age_6_months_exclusively_breastfed16_pct,706,445,347,-86,261,63.03116147308781,Low,Child Nutrition,Exclude,Low data coverage,Positive
+children_age_6_8_months_receiving_solid_or_semi_solid_food_and_breastmilk16_pct,706,64,62,580,642,9.06515580736544,Low,Child Nutrition,Exclude,Low data coverage,Context
+breastfeeding_children_age_6_23_months_receiving_an_adequate_diet16_17_pct,706,701,136,-131,5,99.29178470254958,High,Child Nutrition,Core,Primary healthcare gap indicator,Positive
+non_breastfeeding_children_age_6_23_months_receiving_an_adequate_diet16_17_pct,706,63,59,584,643,8.923512747875353,Low,Child Nutrition,Exclude,Low data coverage,Positive
+total_children_age_6_23_months_receiving_an_adequate_diet16_17_pct,706,705,51,-50,1,99.85835694050992,High,Child Nutrition,Core,Primary healthcare gap indicator,Positive
+children_under_5_years_who_are_stunted_height_for_age_18_pct,706,706,1,-1,0,100.0,High,Child Nutrition,Core,Primary healthcare gap indicator,Negative
+children_under_5_years_who_are_wasted_weight_for_height_18_pct,706,706,1,-1,0,100.0,High,Child Nutrition,Core,Primary healthcare gap indicator,Negative
+children_under_5_years_who_are_severely_wasted_weight_for_height_19_pct,706,706,1,-1,0,100.0,High,Child Nutrition,Core,Primary healthcare gap indicator,Negative
+children_under_5_years_who_are_underweight_weight_for_age_18_pct,706,706,1,-1,0,100.0,High,Child Nutrition,Core,Primary healthcare gap indicator,Negative
+children_under_5_years_who_are_overweight_weight_for_height_20_pct,706,706,1,-1,0,100.0,High,Child Nutrition,Core,Primary healthcare gap indicator,Negative
+women_age_15_49_years_whose_body_mass_index_bmi_is_below_normal_bmi_18_5_kg_m2_21_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+women_age_15_49_years_who_are_overweight_or_obese_bmi_25_0_kg_m2_21_pct,706,706,0,0,0,100.0,High,Child Nutrition,Core,Primary healthcare gap indicator,Negative
+women_age_15_49_years_who_have_high_risk_waist_to_hip_ratio_0_85_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+children_age_6_59_months_who_are_anaemic_11_0_g_dl_22_pct,706,706,2,-2,0,100.0,High,Child Nutrition,Core,Primary healthcare gap indicator,Negative
+non_pregnant_women_age_15_49_years_who_are_anaemic_12_0_g_dl_22_pct,706,706,0,0,0,100.0,High,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Negative
+pregnant_women_age_15_49_years_who_are_anaemic_11_0_g_dl_22_pct,706,572,421,-287,134,81.01983002832861,Moderate,Maternal & Newborn Health,Core,Primary healthcare gap indicator,Negative
+all_women_age_15_49_years_who_are_anaemic22_pct,706,706,0,0,0,100.0,High,Child Nutrition,Core,Primary healthcare gap indicator,Negative
+all_women_age_15_19_years_who_are_anaemic22_pct,706,706,3,-3,0,100.0,High,Child Nutrition,Core,Primary healthcare gap indicator,Negative
+women_age_15_years_and_above_with_high_141_160_mg_dl_blood_sugar_level23_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+women_age_15_years_and_above_wih_very_high_160_mg_dl_blood_sugar_level23_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+women_age_15_years_and_above_wih_high_or_very_high_140_mg_dl_blood_sugar_level_or_taking_medicine_to_control_blood_sugar_level23_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+men_age_15_years_and_above_wih_high_141_160_mg_dl_blood_sugar_level23_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+men_age_15_years_and_above_wih_very_high_160_mg_dl_blood_sugar_level23_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+men_age_15_years_and_above_wih_high_or_very_high_140_mg_dl_blood_sugar_level_or_taking_medicine_to_control_blood_sugar_level23_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+women_age_15_years_and_above_wih_mildly_elevated_blood_pressure_systolic_140_159_mm_of_hg_and_or_diastolic_90_99_mm_of_hg_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+women_age_15_years_and_above_wih_moderately_or_severely_elevated_blood_pressure_systolic_160_mm_of_hg_and_or_diastolic_100_mm_of_hg_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+women_age_15_years_and_above_wih_elevated_blood_pressure_systolic_140_mm_of_hg_and_or_diastolic_90_mm_of_hg_or_taking_medicine_to_control_blood_pressure_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+men_age_15_years_and_above_wih_mildly_elevated_blood_pressure_systolic_140_159_mm_of_hg_and_or_diastolic_90_99_mm_of_hg_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+men_age_15_years_and_above_wih_moderately_or_severely_elevated_blood_pressure_systolic_160_mm_of_hg_and_or_diastolic_100_mm_of_hg_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+men_age_15_years_and_above_wih_elevated_blood_pressure_systolic_140_mm_of_hg_and_or_diastolic_90_mm_of_hg_or_taking_medicine_to_control_blood_pressure_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+women_age_30_49_years_ever_undergone_a_screening_test_for_cervical_cancer_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Context
+women_age_30_49_years_ever_undergone_a_breast_examination_for_breast_cancer_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Context
+women_age_30_49_years_ever_undergone_an_oral_cavity_examination_for_oral_cancer_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Context
+women_age_15_years_and_above_who_use_any_kind_of_tobacco_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+men_age_15_years_and_above_who_use_any_kind_of_tobacco_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+women_age_15_years_and_above_who_consume_alcohol_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
+men_age_15_years_and_above_who_consume_alcohol_pct,706,706,0,0,0,100.0,High,Adult Health & Risk Factors,Supporting,Supporting/contextual indicator,Negative
