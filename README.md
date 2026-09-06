@@ -83,6 +83,7 @@ For positive indicators:
 `Score = (Value − Minimum) / (Maximum − Minimum) × 100`
 
 For negative indicators, the scale is reversed so that better outcomes receive higher scores:
+
 `Score = (Maximum − Value) / (Maximum − Minimum) × 100`
 
 The district HealthGap Score is calculated as the mean of available scores across the **42 scored indicators**.
@@ -182,7 +183,7 @@ HealthGap-India/
 │           ├── healthgap_state_summary.csv
 │           ├── healthgap_indicator_master.csv
 │           ├── healthgap_recommendations.csv
-│           ├── healthgap_priority_districts.csv
+│           └── healthgap_priority_districts.csv
 │
 ├── notebooks/
 │   └── HealthGap_India.ipynb  
